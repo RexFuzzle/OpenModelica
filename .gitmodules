@@ -1,6 +1,6 @@
 [submodule "OMEdit"]
 	path = OMEdit
-	url = https:/github.com/OpenModelica/OMEdit.git
+	url = https://github.com/OpenModelica/OMEdit.git
 [submodule "doc"]
 	path = doc
 	url = https://github.com/OpenModelica/OpenModelica-doc.git
